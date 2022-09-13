@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QUIZ SENSOR</string>
+    <string name="who_is_better">WHO IS BETTER?</string>
+    <string name="todo">TODO</string>
+    <string name="meu_github">MEU GITHUB</string>
+    <string name="button">PLAY</string>
+</resources>
